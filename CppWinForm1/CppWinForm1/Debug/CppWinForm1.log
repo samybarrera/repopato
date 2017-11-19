@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 10/13/2017 3:45:29 PM.
+     1>Proyecto "C:\Users\kushupS\Documents\Visual Studio 2015\Projects\CppWinForm1\CppWinForm1\CppWinForm1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Form2.cpp MyForm.cpp
+         Form2.cpp
+         MyForm.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kushupS\Documents\Visual Studio 2015\Projects\CppWinForm1\Debug\CppWinForm1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\CppWinForm1.Form2.resources /ASSEMBLYRESOURCE:Debug\CppWinForm1.Form3.resources /ASSEMBLYRESOURCE:Debug\CppWinForm1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\kushupS\Documents\Visual Studio 2015\Projects\CppWinForm1\Debug\CppWinForm1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Form2.obj
+         Debug\Form3.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         CppWinForm1.vcxproj -> C:\Users\kushupS\Documents\Visual Studio 2015\Projects\CppWinForm1\Debug\CppWinForm1.exe
+     1>Compilación del proyecto terminada "C:\Users\kushupS\Documents\Visual Studio 2015\Projects\CppWinForm1\CppWinForm1\CppWinForm1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.43
